@@ -143,6 +143,74 @@ body {
 
 /* header done */
 
+
+
+/* main section */
+
+
+/* how-it-works */
+
+.how-it-works-section{
+  margin-top: 50px;
+  margin-bottom: 50px;
+  background-color: aliceblue;
+  padding: 30px;
+  height: 0 auto;
+  width: 0 auto;
+}
+
+
+.how-it-heading{
+  text-align: center;
+  font-size: 50px;
+  font-weight: bold;
+  margin-top: 45px;
+  margin-bottom: 25px;
+}
+
+.how-it-p{
+  text-align: center;
+  font-size: 30px;
+  font-weight: normal;
+  color: gray;
+  margin-top: 20px;
+  margin-bottom: 45px;
+}
+
+.how-it-works-container{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  padding: 25px;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+
+.how-it-text-img{
+  border: 2px solid gray;
+  gap: 50px;
+  height: 100%;
+  width: 100%;
+  box-shadow: 4px 6px 8px 12px gray;
+  margin-top: 25px;
+}
+
+.how-it-card1{
+  width: 200px;
+  height: 200px;
+  padding: 40px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+
+
+
+
 /* flex-box section */
 
 .flex-box-section{
