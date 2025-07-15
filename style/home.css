@@ -143,6 +143,48 @@ body {
 
 /* header done */
 
+/* Achievements */
+
+.achievements-section{
+  margin-top: 45px;
+  background-color: rgba(135, 207, 235, 0.631);
+}
+
+.achievements-text{
+  margin-top: 35px;
+  margin-bottom: 55px;
+  padding: 40px;
+  font-size: 50px;
+  font-weight: bolder;
+  text-align: center;
+  align-items: center;
+}
+
+.achievements-h{
+  font-size: 45px;
+  margin-bottom: 20px;
+  font-weight: bold;
+  align-items: center;
+  color: blue;
+}
+
+.achievements-p{
+  font-size: 30px;
+  margin-bottom: 45px;
+  align-items: center;
+  text-align: center;
+}
+
+.achievements-container{
+  display: flex;
+  justify-content: space-around;
+}
+
+.fa-solid{
+  gap: 25px;
+  color: blue;
+}
+
 
 /* contact start */
 
